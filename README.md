@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm a software engineer from Bengaluru, India.</h1>
-<h3 align="center">A passionate software developer with the interest in Computer Graphics and Game engines.</h3>
+<h3 align="center">A passionate software developer with the interest in Computer Graphics, Game engines and HFT.</h3>
 
 <p align="center"><em>A seasoned software developer with over 12 years of extensive experience in software design and development. Proficient in managing the entire software development life cycle, from initial planning to implementation and maintenance. Skilled in
 conducting impact analysis, project reviews, and comprehensive documentation. Possess deep expertise in Object-Oriented Programming (OOP) and advanced design techniques.</em></p>
 
-<p align="center">Wanna discuss about?: <b>#c, #cpp, #opengl, #vulkan, #opencv, #datastructures, #algorithms, #systemdesign, #distributedsystems, #ComputerGraphics, #fintech, #linux </b>.</p>
+<p align="center">Wanna discuss about?: <b>#c, #cpp, #opengl, #vulkan, #opencv, #datastructures, #algorithms, #systemdesign, #Template MetaProgramming, #distributedsystems, #ComputerGraphics, #fintech, #linux </b>.</p>
 
 <h2 align="left">Work Experience💼</h2>
 <h4 align="left">Mathworks India Pvt. Ltd.<!--<a href="https://in.mathworks.com/products/simulink.html?requestedDomain=" target="blank"><img src="" alt="natiahc" width="180" height="30" align="center" />--></a></h4>
