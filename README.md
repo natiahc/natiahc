@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm a software engineer from Bengaluru, India.</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">A passionate software developer with the interest in Computer Graphics and Game engines.</h3>
 
 <p align="center"><em>A seasoned software developer with over 12 years of extensive experience in software design and development. Proficient in managing the entire software development life cycle, from initial planning to implementation and maintenance. Skilled in
 conducting impact analysis, project reviews, and comprehensive documentation. Possess deep expertise in Object-Oriented Programming (OOP) and advanced design techniques.</em></p>
 
-<p align="center">Wanna discuss about?: <b>#c, #cpp, #opengl, #vulkan, #opencv, #datastructures, #algorithms, #systemdesign, #distributedsystems, #fintech, #linux </b>.</p>
+<p align="center">Wanna discuss about?: <b>#c, #cpp, #opengl, #vulkan, #opencv, #datastructures, #algorithms, #systemdesign, #distributedsystems, #ComputerGraphics, #fintech, #linux </b>.</p>
 
 <h2 align="left">Work Experience💼</h2>
 <h4 align="left">Mathworks India Pvt. Ltd.<!--<a href="https://in.mathworks.com/products/simulink.html?requestedDomain=" target="blank"><img src="" alt="natiahc" width="180" height="30" align="center" />--></a></h4>
@@ -58,17 +58,10 @@ conducting impact analysis, project reviews, and comprehensive documentation. Po
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/20440403/185795408-9e62b499-9091-4575-91ea-05bd7b68e6ba.png" alt="mysql" width="40" height="35" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
-  <a href="https://www.openssl.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/20440403/185795548-488a2d6c-2854-4df6-857b-6f45b86e495b.png" alt="sqlite" width="100" height="40" /> </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/20440403/185796065-4bd3323d-801d-448e-b604-9f67d1deb823.png" alt="sqlite" width="40" height="40" /> </a>
 </p>
 
